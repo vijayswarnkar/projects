@@ -1,0 +1,4 @@
+C:/Users/vijay.sw/projects/c++codes/cmake-build-debug/CMakeFiles/c++codes.dir
+C:/Users/vijay.sw/projects/c++codes/cmake-build-debug/CMakeFiles/a.dir
+C:/Users/vijay.sw/projects/c++codes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vijay.sw/projects/c++codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
