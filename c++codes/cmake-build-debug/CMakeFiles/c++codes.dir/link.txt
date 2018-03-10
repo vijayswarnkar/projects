@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\JetBrains\CLion 2016.3.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\c++codes.dir/objects.a
-C:\PROGRA~1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\c++codes.dir/objects.a @CMakeFiles\c++codes.dir\objects1.rsp
-C:\PROGRA~1\Dev-Cpp\MinGW64\bin\G__~1.EXE  -g   -Wl,--whole-archive CMakeFiles\c++codes.dir/objects.a -Wl,--no-whole-archive  -o c++codes.exe -Wl,--out-implib,libc++codes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\c++codes.dir\linklibs.rsp
